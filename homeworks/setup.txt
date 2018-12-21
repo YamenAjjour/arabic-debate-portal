@@ -1,0 +1,12 @@
+1. install git on windows 
+https://git-scm.com/download/win
+2. Add installed git repository to path 
+see: http://www.chambaud.com/2013/07/08/adding-git-to-path-when-using-github-for-windows/
+3. create an account on GitHub
+https://github.com/join
+4. create a folder in your machine called arabic-debate-portal:
+5. navgiate to the folder in cmd with the command cd
+6. clone the arabic debate portal category to your machine to that folder by entering the command:
+git clone https://github.com/YamenAjjour/arabic-debate-portal.git
+
+. 
